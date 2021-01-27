@@ -1,0 +1,11 @@
+.navbar {
+  background-image: linear-gradient(to bottom right, #dc6b33, #93537b);
+}
+
+.ant-page-header-heading-title {
+  color: white !important;
+}
+
+.ant-page-header-heading-sub-title {
+  color: white !important;
+}
